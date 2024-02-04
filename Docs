@@ -1,0 +1,34 @@
+Build your portfolio project (week 1): making Progress
+
+Challenges :-
+— — — — — —
+The first challenge I faced was when I connected the project with the database. I finished it in 5 hours because there was a misunderstanding when searching. ChaGBT helped me at this point .
+
+I wanted in first write script when the customer hire me take the name and search , give information about him but i find it is very complicated and I remind it’s just exercise
+
+I did not encounter any unexpected non-technical challenges
+
+
+Collaboration :-
+— — — — — — —
+I was alone in this project 
+
+chatGBT help me in how to connect the database with my project 
+
+Project Updates :-
+— — — — — —
+I add new form to clients to fill his informations and add in database 
+The inputs of form:-
+1-name/ name of organization (text)
+2- the field of the website you need (textarea)
+3-phone number (tel)
+4-submit button “Hire Us”
+
+When the client press submit the client’s data 
+Send to the DataBase
+
+Progress :-
+— — — — —
+I will give me rate 9.2 / 10
+I was give me rate 9.5 / 10 but i couldn’t write the script that get the information from the client 
+My project already now MVP (minimal version product) 
